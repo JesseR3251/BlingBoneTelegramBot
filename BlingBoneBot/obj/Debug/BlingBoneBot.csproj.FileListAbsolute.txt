@@ -1,0 +1,10 @@
+C:\Users\Jrobinson\Desktop\EDW Projects\BlingBoneBot\BlingBoneBot\bin\Debug\BlingBoneBot.exe.config
+C:\Users\Jrobinson\Desktop\EDW Projects\BlingBoneBot\BlingBoneBot\bin\Debug\BlingBoneBot.exe
+C:\Users\Jrobinson\Desktop\EDW Projects\BlingBoneBot\BlingBoneBot\bin\Debug\BlingBoneBot.pdb
+C:\Users\Jrobinson\Desktop\EDW Projects\BlingBoneBot\BlingBoneBot\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Jrobinson\Desktop\EDW Projects\BlingBoneBot\BlingBoneBot\bin\Debug\Telegram.Bot.dll
+C:\Users\Jrobinson\Desktop\EDW Projects\BlingBoneBot\BlingBoneBot\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Jrobinson\Desktop\EDW Projects\BlingBoneBot\BlingBoneBot\bin\Debug\Telegram.Bot.xml
+C:\Users\Jrobinson\Desktop\EDW Projects\BlingBoneBot\BlingBoneBot\obj\Debug\BlingBoneBot.csprojResolveAssemblyReference.cache
+C:\Users\Jrobinson\Desktop\EDW Projects\BlingBoneBot\BlingBoneBot\obj\Debug\BlingBoneBot.exe
+C:\Users\Jrobinson\Desktop\EDW Projects\BlingBoneBot\BlingBoneBot\obj\Debug\BlingBoneBot.pdb
