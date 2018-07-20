@@ -23,7 +23,7 @@ namespace BlingBoneBot
         private static void Bot_OnMessage(object sender, Telegram.Bot.Args.MessageEventArgs e)
         {
             if (e.Message.Type == Telegram.Bot.Types.Enums.MessageType.Text)
-                if (e.Message.Text == "How are you?");
+                if (e.Message.Text == "Hey");
             Bot.SendTextMessageAsync(e.Message.Chat.Id, "Fuck off bitch ヾ(●ω●)ノ ");
         }
 
