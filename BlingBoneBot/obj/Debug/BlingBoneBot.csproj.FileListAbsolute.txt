@@ -18,3 +18,14 @@ C:\Users\Jrobinson\Desktop\EDW Projects\BlingBone\BlingBoneBot\bin\Debug\Telegra
 C:\Users\Jrobinson\Desktop\EDW Projects\BlingBone\BlingBoneBot\bin\Debug\Newtonsoft.Json.xml
 C:\Users\Jrobinson\Desktop\EDW Projects\BlingBone\BlingBoneBot\bin\Debug\Telegram.Bot.xml
 C:\Users\Jrobinson\Desktop\EDW Projects\BlingBone\BlingBoneBot\obj\Debug\BlingBoneBot.csprojResolveAssemblyReference.cache
+C:\Users\Jesse\Desktop\BlingBone\BlingBoneBot\obj\Debug\BlingBoneBot.csprojResolveAssemblyReference.cache
+C:\Users\Jesse\Desktop\BlingBone\BlingBoneBot\obj\Debug\BlingBoneBot.csproj.CoreCompileInputs.cache
+C:\Users\Jesse\Desktop\BlingBone\BlingBoneBot\obj\Debug\BlingBoneBot.exe
+C:\Users\Jesse\Desktop\BlingBone\BlingBoneBot\obj\Debug\BlingBoneBot.pdb
+C:\Users\Jesse\Desktop\BlingBone\BlingBoneBot\bin\Debug\BlingBoneBot.exe.config
+C:\Users\Jesse\Desktop\BlingBone\BlingBoneBot\bin\Debug\BlingBoneBot.exe
+C:\Users\Jesse\Desktop\BlingBone\BlingBoneBot\bin\Debug\BlingBoneBot.pdb
+C:\Users\Jesse\Desktop\BlingBone\BlingBoneBot\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Jesse\Desktop\BlingBone\BlingBoneBot\bin\Debug\Telegram.Bot.dll
+C:\Users\Jesse\Desktop\BlingBone\BlingBoneBot\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Jesse\Desktop\BlingBone\BlingBoneBot\bin\Debug\Telegram.Bot.xml
